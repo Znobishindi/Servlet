@@ -1,7 +1,6 @@
 package ru.netology.servlet;
 
 import ru.netology.controller.PostController;
-import ru.netology.exception.NotFoundException;
 import ru.netology.repository.PostRepository;
 import ru.netology.service.PostService;
 
